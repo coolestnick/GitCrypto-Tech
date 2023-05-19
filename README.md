@@ -6,17 +6,6 @@
   </a>
 </p>
 
-<h2 align="center">
-Explore the world of Open Source with Crypto
-
-[Visit Website](https://githubcrypt.netlify.app/)
-
-<!-- made with replit-->
-
-[![Run on Repl.it](https://replit.com/badge/github/Bhushan21z/GithubCryptSCrepl)](https://replit.com/@BHUSHANWANJARI/GithubCryptDeploy?v=1)
-
-
-</h2>
 
 <hr>
 
@@ -129,10 +118,6 @@ A few of the things you can do with GithubCrypt:
 
 <img alt="githubcrypt" title="githubcrypt" src="https://user-images.githubusercontent.com/86847380/219956871-ffb0fd82-12cd-4f39-9f19-677a03b17862.png" >
 
-# Contributors
-
-- [Bhushan Wanjari](https://github.com/Bhushan21z)
-- [Anjali Kushwaha](https://github.com/Anjali2201)
 
 # Build Process
 
