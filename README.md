@@ -9,7 +9,7 @@
 
 <hr>
 
-## Table of Contents
+## Table of Content
 
 - [Introduction](#introduction)
 - [Features](#features)
